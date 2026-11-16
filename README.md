@@ -1,1 +1,66 @@
-# Customer_churn_Analysis
+# Customer churn Analysis
+
+A data analytics project focused on understanding customer churn patterns in the telecommunications industry using Python and Power BI.
+
+📸 Dashboard Preview
+
+<img src=''>
+
+🎯 About the Project
+
+Why do customers leave a telecom company, and what patterns can help businesses understand customer churn?
+
+This project explores customer data to identify churn trends, understand customer behaviour, and uncover insights that can support better customer retention strategies.
+
+The analysis combines Python-based data exploration with an interactive Power BI dashboard.
+
+✨ Project Highlights
+
+- Cleaned and prepared customer data using Python and Pandas.
+- Performed Exploratory Data Analysis (EDA).
+- Created new analytical features to support deeper analysis.
+- Developed 16 KPIs to evaluate customer churn and retention.
+- Built an interactive Power BI dashboard with filters.
+- Derived actionable insights from customer behaviour and churn patterns.
+
+🔍 A Few Key Insights
+
+- Overall customer churn rate: 26.54%
+- Month-to-month contract churn rate: 42.71%
+- Churn rate among customers with 0–18 months of tenure: 44.40%
+- Senior citizens had a higher churn rate (41.68%) than non-senior citizens (23.61%).
+
+🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Power BI
+
+📂 Repository Contents
+
+Folder / File| Description
+"Dataset/"| Dataset used for analysis
+"Notebook/"| Python notebook
+"Dashboard/"| Power BI dashboard
+"Report/"| Detailed project report (PDF)
+"Images/"| Dashboard screenshots
+
+📄 Detailed Project Report
+
+For a complete explanation of the analysis, KPI calculations, findings, and recommendations, refer to the Project Report (PDF) available in this repository.
+
+📊 Dataset
+
+Telco Customer Churn Dataset
+
+Source: "Kaggle – Telco Customer Churn" (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+The dataset contains 7,043 customer records and information about demographics, subscribed services, account details, billing, and churn status.
+
+---
+
+Project Type: Data Analysis
+Domain: Telecommunications
+
+Turning Data into Actionable Insights.
