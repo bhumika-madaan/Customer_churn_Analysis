@@ -4,9 +4,9 @@ A data analytics project focused on understanding customer churn patterns in the
 
 📸 Dashboard Preview
 
-<img src=''>
+<img src='Dashboard/Overall_dashboad_view.png'>
 
-🎯 About the Project
+## 🎯 About the Project
 
 Why do customers leave a telecom company, and what patterns can help businesses understand customer churn?
 
@@ -14,7 +14,7 @@ This project explores customer data to identify churn trends, understand custome
 
 The analysis combines Python-based data exploration with an interactive Power BI dashboard.
 
-✨ Project Highlights
+## ✨Project Highlights
 
 - Cleaned and prepared customer data using Python and Pandas.
 - Performed Exploratory Data Analysis (EDA).
@@ -23,21 +23,21 @@ The analysis combines Python-based data exploration with an interactive Power BI
 - Built an interactive Power BI dashboard with filters.
 - Derived actionable insights from customer behaviour and churn patterns.
 
-🔍 A Few Key Insights
+## 🔍 A Few Key Insights
 
 - Overall customer churn rate: 26.54%
 - Month-to-month contract churn rate: 42.71%
 - Churn rate among customers with 0–18 months of tenure: 44.40%
 - Senior citizens had a higher churn rate (41.68%) than non-senior citizens (23.61%).
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
 - Jupyter Notebook
 - Power BI
 
-📂 Repository Contents
+## 📂 Repository Contents
 
 Folder / File| Description
 "Dataset/"| Dataset used for analysis
@@ -46,7 +46,7 @@ Folder / File| Description
 "Report/"| Detailed project report (PDF)
 "Images/"| Dashboard screenshots
 
-📄 Detailed Project Report
+## 📄 Detailed Project Report
 
 For a complete explanation of the analysis, KPI calculations, findings, and recommendations, refer to the Project Report (PDF) available in this repository.
 
