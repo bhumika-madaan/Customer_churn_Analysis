@@ -2,7 +2,7 @@
 
 A data analytics project focused on understanding customer churn patterns in the telecommunications industry using Python and Power BI.
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 <img src='Dashboard/Overall_dashboad_view.png'>
 
@@ -49,6 +49,9 @@ Folder / File| Description
 ## 📄 Detailed Project Report
 
 For a complete explanation of the analysis, KPI calculations, findings, and recommendations, refer to the Project Report (PDF) available in this repository.
+[View Detailed Project Report (PDF)](Analysis/Customer churn - Inisghts and analysis.pdf)
+
+
 
 📊 Dataset
 
