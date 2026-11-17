@@ -4,7 +4,7 @@ A data analytics project focused on understanding customer churn patterns in the
 
 ## 📸 Dashboard Preview
 
-<img src='Dashboard/Overall_dashboad_view.png'>
+<img src='Dashboard/Overall_dashboard_view.png'>
 
 ## 🎯 About the Project
 
