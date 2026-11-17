@@ -39,24 +39,16 @@ The analysis combines Python-based data exploration with an interactive Power BI
 
 ## 📂 Repository Contents
 
-├── Analysis/
-│   ├── Customer_churn_Insights_and_analysis (Detailed findings & recommendations)
-
-│   └── churn_analysis.ipynb                 (Jupyter Notebook with EDA and modeling)
-
-├── Dashboard/
-
-│   ├── Interactive_dashboard_view.png       (Snapshot of interactive dashboard features)
-
-│   ├── Overall_dashboard_view.png           (Overview snapshot of the Power BI report)
-
-│   └── churn analysis.pbix                  (Power BI interactive report file)
-
-├── Dataset/
-
-│   └── -Telco-Customer-Churn.csv            (Raw dataset)
-
-└── README.md
+📁 Repository Contents
+├── 📁 Analysis/
+│   ├── 📄 Customer_churn_Insights_and_analysis (Detailed findings & recommendations)
+│   └── 💻 churn_analysis.ipynb (Jupyter Notebook with EDA and modeling)
+├── 📁 Dashboard/
+│   ├── 🖼️ Interactive_dashboard_view.png (Snapshot of interactive dashboard features)
+│   ├── 🖼️ Overall_dashboard_view.png (Overview snapshot of the Power BI report)
+│   └── 📊 churn analysis.pbix (Power BI interactive report file)
+└── 📁 Dataset/
+    └── 📄 -Telco-Customer-Churn.csv (Raw dataset)
 
 ## 📄 Detailed Project Report
 
