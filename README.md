@@ -49,11 +49,11 @@ Folder / File| Description
 ## 📄 Detailed Project Report
 
 For a complete explanation of the analysis, KPI calculations, findings, and recommendations, refer to the Project Report (PDF) available in this repository.
-[View Detailed Project Report (PDF)](Analysis/Customer churn - Inisghts and analysis.pdf)
+[View Detailed Project Report (PDF)](Analysis/Customer_churn_Inisghts_and_analysis.pdf)
 
 [📄 View Detailed Project Report (PDF)](./Analysis/Customer churn - Inisghts and analysis.pdf)
 
-📊 Dataset
+## 📊 Dataset
 
 Telco Customer Churn Dataset
 
