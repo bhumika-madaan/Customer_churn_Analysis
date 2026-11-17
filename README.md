@@ -1,10 +1,6 @@
 # Customer churn Analysis
 
-A data analytics project focused on understanding customer churn patterns in the telecommunications industry using Python and Power BI.
-
-## 📸 Dashboard Preview
-
-<img src='Dashboard/Overall_dashboard_view.png'>
+An end-to-end data analysis project investigating customer churn patterns for a telecommunications company. This repository contains the complete workflow—from exploratory data analysis (EDA) in Python to an interactive Power BI dashboard designed to uncover actionable business insights and reduce churn rates.
 
 ## 🎯 About the Project
 
@@ -23,6 +19,10 @@ The analysis combines Python-based data exploration with an interactive Power BI
 - Built an interactive Power BI dashboard with filters.
 - Derived actionable insights from customer behaviour and churn patterns.
 
+## 📸 Dashboard Preview
+
+<img src='Dashboard/Overall_dashboard_view.png'>
+
 ## 🔍 A Few Key Insights
 
 - Overall customer churn rate: 26.54%
@@ -39,19 +39,23 @@ The analysis combines Python-based data exploration with an interactive Power BI
 
 ## 📂 Repository Contents
 
-Folder / File| Description
-"Dataset/"| Dataset used for analysis
-"Notebook/"| Python notebook
-"Dashboard/"| Power BI dashboard
-"Report/"| Detailed project report (PDF)
-"Images/"| Dashboard screenshots
+├── Analysis/
+│   ├── Customer_churn_Insights_and_analysis (Detailed findings & recommendations)
+│   └── churn_analysis.ipynb                 (Jupyter Notebook with EDA and modeling)
+├── Dashboard/
+│   ├── Interactive_dashboard_view.png       (Snapshot of interactive dashboard features)
+│   ├── Overall_dashboard_view.png           (Overview snapshot of the Power BI report)
+│   └── churn analysis.pbix                  (Power BI interactive report file)
+├── Dataset/
+│   └── -Telco-Customer-Churn.csv            (Raw dataset)
+└── README.md
 
 ## 📄 Detailed Project Report
 
 For a complete explanation of the analysis, KPI calculations, findings, and recommendations, refer to the Project Report (PDF) available in this repository.
+
 [View Detailed Project Report (PDF)](Analysis/Customer_churn_Inisghts_and_analysis.pdf)
 
-[📄 View Detailed Project Report (PDF)](./Analysis/Customer churn - Inisghts and analysis.pdf)
 
 ## 📊 Dataset
 
