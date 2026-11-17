@@ -39,8 +39,6 @@ The analysis combines Python-based data exploration with an interactive Power BI
 
 ## 📂 Repository Contents
 
-## 📂 Repository Contents
-
 * **Analysis/**
   * 📄 `Customer_churn_Insights_and_analysis` - Detailed findings & recommendations
   * 📓 `churn_analysis.ipynb` - Jupyter Notebook with EDA and modeling
